@@ -20,3 +20,5 @@ This is the UML diagram of the project
 
 ![UML Diagram](UML_Diagram.jpg)
 
+## Mongo-Express
+You can also access the Mongo-Express UI at [Mongo-Express](http://localhost:8081)
