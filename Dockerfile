@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 COPY . /usr/src/app
 
 # Compile and package the application to an executable JAR
-RUN mvn package -DskipTests
+RUN mvn package
 
 FROM openjdk:17-jdk-slim
 

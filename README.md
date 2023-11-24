@@ -7,7 +7,7 @@ Have docker installed
 ## Running the Application
 
 ```sh
-cd supralog-project
+cd sp-project
 ./run.sh
 ```
 
